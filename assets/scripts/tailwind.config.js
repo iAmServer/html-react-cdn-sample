@@ -1,4 +1,5 @@
-tailwind.config = {
+module.exports = {
+  content: ["./*.{js,jsx,ts,tsx,html}", "./*.html"],
   theme: {
     extend: {
       colors: {

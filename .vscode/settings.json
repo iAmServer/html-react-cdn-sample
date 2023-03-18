@@ -1,0 +1,5 @@
+{
+  "tailwindCSS.configPath": "../assets/scripts/tailwind.config.js",
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.experimental.configFile": "./assets/scripts/tailwind.config.js"
+}
